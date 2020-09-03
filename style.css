@@ -1,0 +1,93 @@
+.recruitment_table{
+	width:100%;
+	}
+.recruitment_table img{
+	float:none;
+	width:32px;
+	max-width:100%;
+	height:auto;
+	box-sizing:border-box;
+	vertical-align:middle;
+	display:inline
+	}
+.recruitment_table td:nth-child(2){
+	text-align:right
+	}
+.recruitment_table .DeathKnight{
+	color:#C41F3B;
+	}
+.recruitment_table .DeathKnight img{
+	border:1px solid #C41F3B;
+	}
+.recruitment_table .DemonHunter{
+	color:#A330C9;
+	}
+.recruitment_table .DemonHunter img{
+	border:1px solid #A330C9;
+	}
+.recruitment_table .Druid{
+	color:#FF7D0A;
+	}
+.recruitment_table .Druid img{
+	border:1px solid #FF7D0A;
+	}
+.recruitment_table .Hunter{
+	color:#A9D271;
+	}
+.recruitment_table .Hunter img{
+	border:1px solid #A9D271;
+	}
+.recruitment_table .Mage{
+	color:#40C7EB;
+	}
+.recruitment_table .Mage img{
+	border:1px solid #40C7EB;
+	}
+.recruitment_table .Monk{
+	color:#00FF96;
+	}
+.recruitment_table .Monk img{
+	border:1px solid #00FF96;
+	}
+.recruitment_table .Paladin{
+	color:#F58CBA;
+	}
+.recruitment_table .Paladin img{
+	border:1px solid ##F58CBA;
+	}
+.recruitment_table .Priest{
+	color:#FFFFFF;
+	}
+.recruitment_table .Priest img{
+	border:1px solid #FFFFFF;
+	}
+.recruitment_table .Rogue{
+	color:#FFF569;
+	}
+.recruitment_table .Rogue img{
+	border:1px solid ##FFF569;
+	}
+.recruitment_table .Shaman{
+	color:#0070DE;
+	}
+.recruitment_table .Shaman img{
+	border:1px solid #0070DE;
+	}
+.recruitment_table .Warlock{
+	color:#8787ED;
+	}
+.recruitment_table .Warlock img{
+	border:1px solid #8787ED;
+	}
+.recruitment_table .Warrior{
+	color:#C79C6E;
+	}
+.recruitment_table .Warrior img{
+	border:1px solid #C79C6E;
+	}
+.recruitment_table .open{
+	opacity:1;
+	}
+.recruitment_table .close{
+	opacity:.3;
+	}
