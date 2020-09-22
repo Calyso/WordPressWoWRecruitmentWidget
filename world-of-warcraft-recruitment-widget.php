@@ -32,8 +32,8 @@ class World_of_Warcraft_recruitment_widget extends WP_Widget
 {
 
 	private $classes = array(
-		'Death Knight' => array('Blood', 'Frost', 'Unholy'),
-		'Demon Hunter' => array('Havoc', 'Vengeance'),
+		'DeathKnight' => array('Blood', 'Frost', 'Unholy'),
+		'DemonHunter' => array('Havoc', 'Vengeance'),
 		'Druid'       => array('Balance', 'Feral', 'Guardian', 'Restoration'),
 		'Hunter'      => array('Beastmastery', 'Marksmanship', 'Survival'),
 		'Mage'        => array('Arcane', 'Fire', 'Frost'),
