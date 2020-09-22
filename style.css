@@ -8,10 +8,10 @@
 	height:auto;
 	box-sizing:border-box;
 	vertical-align:middle;
-	display:inline
+	display:inline;
 	}
 .recruitment_table td:nth-child(2){
-	text-align:right
+	text-align:right;
 	}
 .recruitment_table .DeathKnight{
 	color:#C41F3B;
